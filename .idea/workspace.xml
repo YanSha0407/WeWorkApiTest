@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66312209-9507-4dd8-afdf-7ce09a306812" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VbKdOHVqlO1knHSUKpWxixmm4n" />
+  <component name="PropertiesComponent">
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MarkTest">
+    <configuration name="MarkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeWorkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Server.department.testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Com.Server.department.testCase" />
+      <option name="MAIN_CLASS_NAME" value="Com.Server.department.testCase.MarkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkTest.addMember" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeWorkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Server.department.testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Com.Server.department.testCase" />
+      <option name="MAIN_CLASS_NAME" value="Com.Server.department.testCase.MarkTest" />
+      <option name="METHOD_NAME" value="addMember" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkTest.create" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeWorkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Server.department.testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Com.Server.department.testCase" />
+      <option name="MAIN_CLASS_NAME" value="Com.Server.department.testCase.MarkTest" />
+      <option name="METHOD_NAME" value="create" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkTest.deleteMember" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeWorkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Server.department.testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Com.Server.department.testCase" />
+      <option name="MAIN_CLASS_NAME" value="Com.Server.department.testCase.MarkTest" />
+      <option name="METHOD_NAME" value="deleteMember" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarkTest.list" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WeWorkTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Com.Server.department.testCase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Com.Server.department.testCase" />
+      <option name="MAIN_CLASS_NAME" value="Com.Server.department.testCase.MarkTest" />
+      <option name="METHOD_NAME" value="list" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MarkTest" />
+        <item itemvalue="JUnit.MarkTest.deleteMember" />
+        <item itemvalue="JUnit.MarkTest.addMember" />
+        <item itemvalue="JUnit.MarkTest.list" />
+        <item itemvalue="JUnit.MarkTest.create" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66312209-9507-4dd8-afdf-7ce09a306812" name="Default Changelist" comment="" />
+      <created>1577516440022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577516440022</updated>
+    </task>
+    <servers />
+  </component>
+</project>
